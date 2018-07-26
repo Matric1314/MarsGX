@@ -1,2 +1,2 @@
-# MarsGX
-continuation of previous senior design project
+# marsgravityx
+MarsGravityX Team
